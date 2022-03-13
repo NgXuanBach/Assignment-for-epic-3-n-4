@@ -11,4 +11,4 @@
 # Bài tập 3: 
 # Ý tưởng vì mỗi từ cách nhau 1 khoảng trắng ==> số từ = (số khoảng trắng + 1) 
 # Tạo 1 vòng lặp for rồi dùng hàm đếm khoảng trắng isspace() đếm 
-# ==> số từ = (số khoảng trắng + 1) 
+# ==> số từ = (số khoảng trắng + 1) .
